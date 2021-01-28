@@ -1,5 +1,7 @@
 # Portafolio
 
+Proyecto basico donde se muestra un portafolio con imagenes, y pagina de about responsive hecho en angular 11
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
 ## Development server
